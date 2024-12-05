@@ -1,0 +1,11 @@
+name: emissions-attribution
+channels:
+  - conda-forge
+dependencies:
+  - fair==2.2.0
+  - jupyter
+  - matplotlib
+  - nbstripout
+  - numpy
+  - pandas
+  - xarray
